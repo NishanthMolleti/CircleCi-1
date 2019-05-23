@@ -1,0 +1,19 @@
+{
+  "name": "circletest",
+  "version": "1.0.0",
+  "description": "cicrleci technical test",
+  "main": "app.html",
+  "dependencies": {
+    "button": "^1.1.1"
+  },
+  "devDependencies": {
+    "babel-preset-react": "^6.24.1",
+    "jest": "^24.8.0",
+    "jest-enzyme": "^7.0.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
